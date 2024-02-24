@@ -1,0 +1,58 @@
+Options:
+  update-ticks: 20
+
+scoreboards:
+  actual: default
+  default:
+    title: '&#b3ff19&lᴛᴡɪᴛᴄʜᴅᴇᴠᴛᴏᴏʟ'
+    lines:
+    - '&a'
+    - '&#beff19 Porcentajes:'
+    - '&#fce303  Soarinng &8› &f%twdevtool_soarinng_percentage%'
+    - '&#a938ff  Aquino &8› &f%twdevtool_aquino_percentage%'
+    - '&a'
+    - '&#beff19 Precios:'
+    - '&#9cff19  2500 bits &8- &fB. Atomica'
+    - '&#9cff19  1000 bits &8- &fTruenos'
+    - '&#9cff19  500 bits &8- &fMeteoritos'
+    - '&#9cff19  250 bits &8- &f20 TNTs'
+    - '&#9cff19  50 bits &8- &f3 TNTs'
+    - '&#9cff19  20 bits &8- &f1 TNT'
+    - '&f'
+    - '&#fff700www.holy.gg'
+  soarinng:
+    title: '&#b3ff19&lᴛᴡɪᴛᴄʜᴅᴇᴠᴛᴏᴏʟ'
+    lines:
+    - '&a'
+    - '&#beff19 Porcentajes:'
+    - '&#fce303  Soarinng &8› &f%twdevtool_soarinng_percentage%'
+    - '&#a938ff  Aquino &8› &f%twdevtool_aquino_percentage%'
+    - '&a'
+    - '&#beff19 Precios:'
+    - '&#9cff19  2500 bits &8- &fB. Atomica'
+    - '&#9cff19  1000 bits &8- &fTruenos'
+    - '&#9cff19  500 bits &8- &fMeteoritos'
+    - '&#9cff19  250 bits &8- &f20 TNTs'
+    - '&#9cff19  50 bits &8- &f3 TNTs'
+    - '&#9cff19  20 bits &8- &f1 TNT'
+    - '&f'
+    - '&#fff700www.holy.gg'
+  aquino:
+    title: '&#b3ff19&lᴛᴡɪᴛᴄʜᴅᴇᴠᴛᴏᴏʟ'
+    lines:
+    - '&a'
+    - '&#beff19 Porcentajes:'
+    - '&#a938ff  Aquino &8› &f%twdevtool_aquino_percentage%'
+    - '&#fce303  Soarinng &8› &f%twdevtool_soarinng_percentage%'
+    - '&a'
+    - '&#beff19 Precios:'
+    - '&#9cff19  3500 bits &8- &fB. Atomica'
+    - '&#9cff19  2000 bits &8- &fTruenos'
+    - '&#9cff19  1000 bits &8- &fMeteoritos'
+    - '&#9cff19  500 bits &8- &f20 TNTs'
+    - '&#9cff19  100 bits &8- &f3 TNTs'
+    - '&#9cff19  40 bits &8- &f1 TNT'
+    - '&f'
+    - '&#fff700www.holy.gg'
+
+data: {}

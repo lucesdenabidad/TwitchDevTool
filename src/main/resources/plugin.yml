@@ -1,0 +1,5 @@
+name: TwitchDevTool
+version: '${project.version}'
+main: cc.datta.twitchdevtool.TwitchDevTool
+api-version: '1.19'
+authors: [datta]
